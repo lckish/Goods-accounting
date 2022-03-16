@@ -1,0 +1,11 @@
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\obj\Debug\Shklyaev_3Lab.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\obj\Debug\Shklyaev_3Lab.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\obj\Debug\Shklyaev_3Lab.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\obj\Debug\Shklyaev_3Lab.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\bin\Debug\Shklyaev_3Lab.exe.config
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\bin\Debug\Shklyaev_3Lab.exe
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\bin\Debug\Shklyaev_3Lab.pdb
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\obj\Debug\Shklyaev_3Lab.exe
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\obj\Debug\Shklyaev_3Lab.pdb
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\obj\Debug\Shklyaev_3Lab.Form1.resources
+C:\Users\Кирилл\Desktop\Shklyaev_3Lab\Shklyaev_3Lab\obj\Debug\Shklyaev_3Lab.Form2.resources
